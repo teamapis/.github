@@ -6,7 +6,7 @@ The primary goal of this collection of repositories is to provide a record of ex
 
 Along the way, we may provide alternative schemas to the official ones which address quirks we've found in the official schemas.
 
-Star the repository of the APIs you use most often, or follow us on Twitter! <a href="https://twitter.com/TeamApis?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @TeamApis</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+Star the repository of the APIs you use most often, or [follow us on Twitter](https://twitter.com/TeamApis)!
 
 ## Sponsored By
 
@@ -14,5 +14,5 @@ This project is sponsored by Loveless Labs, API experts and seasoned users of th
 
 Need help on a project using Atlassian APIs? Reach out through [Loveless Labs](https://lovelesslabs.com).
 
-![Loveless Labs](../assets/loveless-labs-big-transparent.png)
+![Loveless Labs](assets/loveless-labs-big-transparent.png)
 
