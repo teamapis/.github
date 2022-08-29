@@ -14,5 +14,5 @@ This project is sponsored by Loveless Labs, API experts and seasoned users of th
 
 Need help on a project using Atlassian APIs? Reach out through [Loveless Labs](https://lovelesslabs.com).
 
-![Loveless Labs](assets/loveless-labs-big-transparent.png)
+![Loveless Labs](/profile/assets/loveless-labs-big-transparent.png)
 
